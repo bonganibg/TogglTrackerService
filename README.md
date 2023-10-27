@@ -3,3 +3,4 @@ Library for filtering events in a .ics file and uploading the events to the user
 
 ## Specs
 - [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- [Paket](https://fsprojects.github.io/Paket/get-started.html)
